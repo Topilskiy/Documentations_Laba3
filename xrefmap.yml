@@ -1,0 +1,281 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ClassLibrary
+  name: ClassLibrary
+  href: api/ClassLibrary.html
+  commentId: N:ClassLibrary
+  fullName: ClassLibrary
+  nameWithType: ClassLibrary
+- uid: ClassLibrary.Antivirus
+  name: Antivirus
+  href: api/ClassLibrary.Antivirus.html
+  commentId: T:ClassLibrary.Antivirus
+  fullName: ClassLibrary.Antivirus
+  nameWithType: Antivirus
+- uid: ClassLibrary.Antivirus.#ctor
+  name: Antivirus()
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus__ctor
+  commentId: M:ClassLibrary.Antivirus.#ctor
+  fullName: ClassLibrary.Antivirus.Antivirus()
+  nameWithType: Antivirus.Antivirus()
+- uid: ClassLibrary.Antivirus.#ctor(System.String)
+  name: Antivirus(String)
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus__ctor_System_String_
+  commentId: M:ClassLibrary.Antivirus.#ctor(System.String)
+  fullName: ClassLibrary.Antivirus.Antivirus(System.String)
+  nameWithType: Antivirus.Antivirus(String)
+- uid: ClassLibrary.Antivirus.#ctor(System.String,System.Int32)
+  name: Antivirus(String, Int32)
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus__ctor_System_String_System_Int32_
+  commentId: M:ClassLibrary.Antivirus.#ctor(System.String,System.Int32)
+  fullName: ClassLibrary.Antivirus.Antivirus(System.String, System.Int32)
+  nameWithType: Antivirus.Antivirus(String, Int32)
+- uid: ClassLibrary.Antivirus.#ctor(System.String,System.Int32,System.String)
+  name: Antivirus(String, Int32, String)
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus__ctor_System_String_System_Int32_System_String_
+  commentId: M:ClassLibrary.Antivirus.#ctor(System.String,System.Int32,System.String)
+  fullName: ClassLibrary.Antivirus.Antivirus(System.String, System.Int32, System.String)
+  nameWithType: Antivirus.Antivirus(String, Int32, String)
+- uid: ClassLibrary.Antivirus.#ctor(System.String,System.Int32,System.String,System.String)
+  name: Antivirus(String, Int32, String, String)
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus__ctor_System_String_System_Int32_System_String_System_String_
+  commentId: M:ClassLibrary.Antivirus.#ctor(System.String,System.Int32,System.String,System.String)
+  fullName: ClassLibrary.Antivirus.Antivirus(System.String, System.Int32, System.String, System.String)
+  nameWithType: Antivirus.Antivirus(String, Int32, String, String)
+- uid: ClassLibrary.Antivirus.#ctor*
+  name: Antivirus
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus__ctor_
+  commentId: Overload:ClassLibrary.Antivirus.#ctor
+  isSpec: "True"
+  fullName: ClassLibrary.Antivirus.Antivirus
+  nameWithType: Antivirus.Antivirus
+- uid: ClassLibrary.Antivirus.Add_File_In_Quarantine(System.String)
+  name: Add_File_In_Quarantine(String)
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Add_File_In_Quarantine_System_String_
+  commentId: M:ClassLibrary.Antivirus.Add_File_In_Quarantine(System.String)
+  fullName: ClassLibrary.Antivirus.Add_File_In_Quarantine(System.String)
+  nameWithType: Antivirus.Add_File_In_Quarantine(String)
+- uid: ClassLibrary.Antivirus.Add_File_In_Quarantine*
+  name: Add_File_In_Quarantine
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Add_File_In_Quarantine_
+  commentId: Overload:ClassLibrary.Antivirus.Add_File_In_Quarantine
+  isSpec: "True"
+  fullName: ClassLibrary.Antivirus.Add_File_In_Quarantine
+  nameWithType: Antivirus.Add_File_In_Quarantine
+- uid: ClassLibrary.Antivirus.Check_File(System.String)
+  name: Check_File(String)
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Check_File_System_String_
+  commentId: M:ClassLibrary.Antivirus.Check_File(System.String)
+  fullName: ClassLibrary.Antivirus.Check_File(System.String)
+  nameWithType: Antivirus.Check_File(String)
+- uid: ClassLibrary.Antivirus.Check_File*
+  name: Check_File
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Check_File_
+  commentId: Overload:ClassLibrary.Antivirus.Check_File
+  isSpec: "True"
+  fullName: ClassLibrary.Antivirus.Check_File
+  nameWithType: Antivirus.Check_File
+- uid: ClassLibrary.Antivirus.Clear_Quarantine
+  name: Clear_Quarantine()
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Clear_Quarantine
+  commentId: M:ClassLibrary.Antivirus.Clear_Quarantine
+  fullName: ClassLibrary.Antivirus.Clear_Quarantine()
+  nameWithType: Antivirus.Clear_Quarantine()
+- uid: ClassLibrary.Antivirus.Clear_Quarantine*
+  name: Clear_Quarantine
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Clear_Quarantine_
+  commentId: Overload:ClassLibrary.Antivirus.Clear_Quarantine
+  isSpec: "True"
+  fullName: ClassLibrary.Antivirus.Clear_Quarantine
+  nameWithType: Antivirus.Clear_Quarantine
+- uid: ClassLibrary.Antivirus.Delete_File_In_Quarantine(System.Int32)
+  name: Delete_File_In_Quarantine(Int32)
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Delete_File_In_Quarantine_System_Int32_
+  commentId: M:ClassLibrary.Antivirus.Delete_File_In_Quarantine(System.Int32)
+  fullName: ClassLibrary.Antivirus.Delete_File_In_Quarantine(System.Int32)
+  nameWithType: Antivirus.Delete_File_In_Quarantine(Int32)
+- uid: ClassLibrary.Antivirus.Delete_File_In_Quarantine*
+  name: Delete_File_In_Quarantine
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Delete_File_In_Quarantine_
+  commentId: Overload:ClassLibrary.Antivirus.Delete_File_In_Quarantine
+  isSpec: "True"
+  fullName: ClassLibrary.Antivirus.Delete_File_In_Quarantine
+  nameWithType: Antivirus.Delete_File_In_Quarantine
+- uid: ClassLibrary.Antivirus.Info
+  name: Info()
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Info
+  commentId: M:ClassLibrary.Antivirus.Info
+  fullName: ClassLibrary.Antivirus.Info()
+  nameWithType: Antivirus.Info()
+- uid: ClassLibrary.Antivirus.Info*
+  name: Info
+  href: api/ClassLibrary.Antivirus.html#ClassLibrary_Antivirus_Info_
+  commentId: Overload:ClassLibrary.Antivirus.Info
+  isSpec: "True"
+  fullName: ClassLibrary.Antivirus.Info
+  nameWithType: Antivirus.Info
+- uid: ClassLibrary.Arhiver
+  name: Arhiver
+  href: api/ClassLibrary.Arhiver.html
+  commentId: T:ClassLibrary.Arhiver
+  fullName: ClassLibrary.Arhiver
+  nameWithType: Arhiver
+- uid: ClassLibrary.Arhiver.#ctor
+  name: Arhiver()
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver__ctor
+  commentId: M:ClassLibrary.Arhiver.#ctor
+  fullName: ClassLibrary.Arhiver.Arhiver()
+  nameWithType: Arhiver.Arhiver()
+- uid: ClassLibrary.Arhiver.#ctor(System.String)
+  name: Arhiver(String)
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver__ctor_System_String_
+  commentId: M:ClassLibrary.Arhiver.#ctor(System.String)
+  fullName: ClassLibrary.Arhiver.Arhiver(System.String)
+  nameWithType: Arhiver.Arhiver(String)
+- uid: ClassLibrary.Arhiver.#ctor(System.String,System.Int32)
+  name: Arhiver(String, Int32)
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver__ctor_System_String_System_Int32_
+  commentId: M:ClassLibrary.Arhiver.#ctor(System.String,System.Int32)
+  fullName: ClassLibrary.Arhiver.Arhiver(System.String, System.Int32)
+  nameWithType: Arhiver.Arhiver(String, Int32)
+- uid: ClassLibrary.Arhiver.#ctor(System.String,System.Int32,System.String)
+  name: Arhiver(String, Int32, String)
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver__ctor_System_String_System_Int32_System_String_
+  commentId: M:ClassLibrary.Arhiver.#ctor(System.String,System.Int32,System.String)
+  fullName: ClassLibrary.Arhiver.Arhiver(System.String, System.Int32, System.String)
+  nameWithType: Arhiver.Arhiver(String, Int32, String)
+- uid: ClassLibrary.Arhiver.#ctor(System.String,System.Int32,System.String,System.String)
+  name: Arhiver(String, Int32, String, String)
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver__ctor_System_String_System_Int32_System_String_System_String_
+  commentId: M:ClassLibrary.Arhiver.#ctor(System.String,System.Int32,System.String,System.String)
+  fullName: ClassLibrary.Arhiver.Arhiver(System.String, System.Int32, System.String, System.String)
+  nameWithType: Arhiver.Arhiver(String, Int32, String, String)
+- uid: ClassLibrary.Arhiver.#ctor*
+  name: Arhiver
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver__ctor_
+  commentId: Overload:ClassLibrary.Arhiver.#ctor
+  isSpec: "True"
+  fullName: ClassLibrary.Arhiver.Arhiver
+  nameWithType: Arhiver.Arhiver
+- uid: ClassLibrary.Arhiver.Arhivate_file(System.String)
+  name: Arhivate_file(String)
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver_Arhivate_file_System_String_
+  commentId: M:ClassLibrary.Arhiver.Arhivate_file(System.String)
+  fullName: ClassLibrary.Arhiver.Arhivate_file(System.String)
+  nameWithType: Arhiver.Arhivate_file(String)
+- uid: ClassLibrary.Arhiver.Arhivate_file*
+  name: Arhivate_file
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver_Arhivate_file_
+  commentId: Overload:ClassLibrary.Arhiver.Arhivate_file
+  isSpec: "True"
+  fullName: ClassLibrary.Arhiver.Arhivate_file
+  nameWithType: Arhiver.Arhivate_file
+- uid: ClassLibrary.Arhiver.Info
+  name: Info()
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver_Info
+  commentId: M:ClassLibrary.Arhiver.Info
+  fullName: ClassLibrary.Arhiver.Info()
+  nameWithType: Arhiver.Info()
+- uid: ClassLibrary.Arhiver.Info*
+  name: Info
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver_Info_
+  commentId: Overload:ClassLibrary.Arhiver.Info
+  isSpec: "True"
+  fullName: ClassLibrary.Arhiver.Info
+  nameWithType: Arhiver.Info
+- uid: ClassLibrary.Arhiver.Unarhivate_file(System.Int32)
+  name: Unarhivate_file(Int32)
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver_Unarhivate_file_System_Int32_
+  commentId: M:ClassLibrary.Arhiver.Unarhivate_file(System.Int32)
+  fullName: ClassLibrary.Arhiver.Unarhivate_file(System.Int32)
+  nameWithType: Arhiver.Unarhivate_file(Int32)
+- uid: ClassLibrary.Arhiver.Unarhivate_file*
+  name: Unarhivate_file
+  href: api/ClassLibrary.Arhiver.html#ClassLibrary_Arhiver_Unarhivate_file_
+  commentId: Overload:ClassLibrary.Arhiver.Unarhivate_file
+  isSpec: "True"
+  fullName: ClassLibrary.Arhiver.Unarhivate_file
+  nameWithType: Arhiver.Unarhivate_file
+- uid: ClassLibrary.Soft
+  name: Soft
+  href: api/ClassLibrary.Soft.html
+  commentId: T:ClassLibrary.Soft
+  fullName: ClassLibrary.Soft
+  nameWithType: Soft
+- uid: ClassLibrary.Soft.#ctor
+  name: Soft()
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft__ctor
+  commentId: M:ClassLibrary.Soft.#ctor
+  fullName: ClassLibrary.Soft.Soft()
+  nameWithType: Soft.Soft()
+- uid: ClassLibrary.Soft.#ctor(System.String)
+  name: Soft(String)
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft__ctor_System_String_
+  commentId: M:ClassLibrary.Soft.#ctor(System.String)
+  fullName: ClassLibrary.Soft.Soft(System.String)
+  nameWithType: Soft.Soft(String)
+- uid: ClassLibrary.Soft.#ctor(System.String,System.Int32)
+  name: Soft(String, Int32)
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft__ctor_System_String_System_Int32_
+  commentId: M:ClassLibrary.Soft.#ctor(System.String,System.Int32)
+  fullName: ClassLibrary.Soft.Soft(System.String, System.Int32)
+  nameWithType: Soft.Soft(String, Int32)
+- uid: ClassLibrary.Soft.#ctor(System.String,System.Int32,System.String)
+  name: Soft(String, Int32, String)
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft__ctor_System_String_System_Int32_System_String_
+  commentId: M:ClassLibrary.Soft.#ctor(System.String,System.Int32,System.String)
+  fullName: ClassLibrary.Soft.Soft(System.String, System.Int32, System.String)
+  nameWithType: Soft.Soft(String, Int32, String)
+- uid: ClassLibrary.Soft.#ctor(System.String,System.Int32,System.String,System.String)
+  name: Soft(String, Int32, String, String)
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft__ctor_System_String_System_Int32_System_String_System_String_
+  commentId: M:ClassLibrary.Soft.#ctor(System.String,System.Int32,System.String,System.String)
+  fullName: ClassLibrary.Soft.Soft(System.String, System.Int32, System.String, System.String)
+  nameWithType: Soft.Soft(String, Int32, String, String)
+- uid: ClassLibrary.Soft.#ctor*
+  name: Soft
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft__ctor_
+  commentId: Overload:ClassLibrary.Soft.#ctor
+  isSpec: "True"
+  fullName: ClassLibrary.Soft.Soft
+  nameWithType: Soft.Soft
+- uid: ClassLibrary.Soft.Info
+  name: Info()
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft_Info
+  commentId: M:ClassLibrary.Soft.Info
+  fullName: ClassLibrary.Soft.Info()
+  nameWithType: Soft.Info()
+- uid: ClassLibrary.Soft.Info*
+  name: Info
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft_Info_
+  commentId: Overload:ClassLibrary.Soft.Info
+  isSpec: "True"
+  fullName: ClassLibrary.Soft.Info
+  nameWithType: Soft.Info
+- uid: ClassLibrary.Soft.location
+  name: location
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft_location
+  commentId: P:ClassLibrary.Soft.location
+  fullName: ClassLibrary.Soft.location
+  nameWithType: Soft.location
+- uid: ClassLibrary.Soft.location*
+  name: location
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft_location_
+  commentId: Overload:ClassLibrary.Soft.location
+  isSpec: "True"
+  fullName: ClassLibrary.Soft.location
+  nameWithType: Soft.location
+- uid: ClassLibrary.Soft.Сhange_Location(System.String)
+  name: Сhange_Location(String)
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft__hange_Location_System_String_
+  commentId: M:ClassLibrary.Soft.Сhange_Location(System.String)
+  fullName: ClassLibrary.Soft.Сhange_Location(System.String)
+  nameWithType: Soft.Сhange_Location(String)
+- uid: ClassLibrary.Soft.Сhange_Location*
+  name: Сhange_Location
+  href: api/ClassLibrary.Soft.html#ClassLibrary_Soft__hange_Location_
+  commentId: Overload:ClassLibrary.Soft.Сhange_Location
+  isSpec: "True"
+  fullName: ClassLibrary.Soft.Сhange_Location
+  nameWithType: Soft.Сhange_Location
